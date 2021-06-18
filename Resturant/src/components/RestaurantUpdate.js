@@ -4,7 +4,7 @@ class RestaurantUpdate extends Component {
     render() {
         return (
             <div>
-                <h1>Restaurant Update</h1>
+                <h1>Restaurant Updates</h1>
             </div>
         );
     }

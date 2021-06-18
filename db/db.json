@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "pizza HUt",
+      "address": "noida",
+      "rating": "4.5",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "punjab",
+      "rating": "4",
+      "email": "Dominos@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "burger land",
+      "address": "delhi",
+      "rating": "3.5",
+      "email": "burgerland@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "RS Resto",
+      "address": "mumbai",
+      "rating": "3",
+      "email": "rsresto@gmail.com"
+    },
+    {
+      "name": "kfc",
+      "email": "kfc@gmail.com",
+      "rating": "2",
+      "address": "Ald",
+      "id": 5
+    },
+    {
+      "name": null,
+      "email": null,
+      "rating": null,
+      "address": null,
+      "id": 6
+    }
+  ]
+}
